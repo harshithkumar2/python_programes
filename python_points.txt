@@ -1,0 +1,13 @@
+//to convert from upper to lower
+
+chr(ord(character) + 32) 
+
+
+//to convert from lower to upper
+
+chr(ord(character) - 32) 
+
+
+ord -> converts character to ascii value
+
+chr - > converts ascii back to character
